@@ -1,0 +1,13 @@
+C:\Users\alsyq\source\repos\crips form\crips form\bin\Debug\crips form.exe.config
+C:\Users\alsyq\source\repos\crips form\crips form\bin\Debug\crips form.exe
+C:\Users\alsyq\source\repos\crips form\crips form\bin\Debug\crips form.pdb
+C:\Users\alsyq\source\repos\crips form\crips form\bin\Debug\Guna.UI.dll
+C:\Users\alsyq\source\repos\crips form\crips form\obj\Debug\crips form.csproj.AssemblyReference.cache
+C:\Users\alsyq\source\repos\crips form\crips form\obj\Debug\crips_form.Form1.resources
+C:\Users\alsyq\source\repos\crips form\crips form\obj\Debug\crips_form.Form2.resources
+C:\Users\alsyq\source\repos\crips form\crips form\obj\Debug\crips_form.Properties.Resources.resources
+C:\Users\alsyq\source\repos\crips form\crips form\obj\Debug\crips form.csproj.GenerateResource.cache
+C:\Users\alsyq\source\repos\crips form\crips form\obj\Debug\crips form.csproj.CoreCompileInputs.cache
+C:\Users\alsyq\source\repos\crips form\crips form\obj\Debug\crips form.csproj.CopyComplete
+C:\Users\alsyq\source\repos\crips form\crips form\obj\Debug\crips form.exe
+C:\Users\alsyq\source\repos\crips form\crips form\obj\Debug\crips form.pdb
